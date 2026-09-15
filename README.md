@@ -1,7 +1,6 @@
 # my-first-repository
 
-Hi! My name is Jamaica Esgana
-I am a Bachelor of Science in Information Technology student
+Hi! My name is Jamaica Esgana, I am a Bachelor of Science in Information Technology student
 Section 2E.
 
 I am interested in learning programming, web development, and other technologies to build a strong foundation in IT.
