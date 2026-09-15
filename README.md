@@ -1,6 +1,5 @@
 # my-first-repository
 
-##About me
 Hi! My name is Jamaica Esgana
 I am a Bachelor of Science in Information Technology student
 Section 2E.
